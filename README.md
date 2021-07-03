@@ -5,7 +5,7 @@ I'm Nguyen Bao Trung. I'm a Computer Science student from Post and Telecommuicat
 
 :mailbox: Reach me out!
 
-[![FaceBook Badge](https://img.shields.io/badge/-BaoTrung-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-@tuilabaotrung-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/tuilabtrung) [![Mail Badge](https://img.shields.io/badge/-baotrung372k-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](baotrung372k@gmail.com)
+[![FaceBook Badge](https://img.shields.io/badge/-BaoTrung-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/chicotuimoipro.pro/) [![Mail Badge](https://img.shields.io/badge/-@tuilabaotrung-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/tuilabtrung) [![Mail Badge](https://img.shields.io/badge/-baotrung372k-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](baotrung372k@gmail.com)
 
 -  🤔 I’m currently learning Android Application
 -  😄 I’m looking to collaborate on ... anything, maybe? I love collaborations.
