@@ -4,6 +4,7 @@ I'm Nguyen Bao Trung. I'm a Computer Science student from Post and Telecommuicat
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/baotrung37/baotrung37/blob/main/devcard.svg" width="400" alt="BaoTrung37's Dev Card"/></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baotrung37" alt="baotrung37" /></a> </p>
 
+
 :mailbox: Reach me out!
 
 [![FaceBook Badge](https://img.shields.io/badge/-BaoTrung-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/baotrung372k/) [![Mail Badge](https://img.shields.io/badge/-@tuilabaotrung-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/tuilabtrung) [![Mail Badge](https://img.shields.io/badge/-baotrung372k-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:baotrung372k@gmail.com)
