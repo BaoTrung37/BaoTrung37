@@ -2,7 +2,9 @@
 ## Hi There <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm Nguyen Bao Trung. I'm a Computer Science student from Post and Telecommuication Institute of Technology, Hanoi, Vietnam
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baotrung37" alt="baotrung37" /></a> </p> <a href="https://app.daily.dev/BaoTrung37"><img src="https://github.com/baotrung37/baotrung37/blob/main/devcard.svg" width="300" alt="BaoTrung37's Dev Card"/></a>
+
+<a href="https://app.daily.dev/BaoTrung37"><img src="https://github.com/baotrung37/baotrung37/blob/main/devcard.svg" align="right" width="300" alt="BaoTrung37's Dev Card"/></a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baotrung37" alt="baotrung37" /></a> </p> 
 
 
 :mailbox: Reach me out!
