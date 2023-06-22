@@ -3,7 +3,7 @@
 
 I'm Nguyen Bao Trung. I'm a Computer Science student from Post and Telecommuication Institute of Technology, Hanoi, Vietnam   
 
-
+ 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baotrung37" alt="baotrung37" /></a> </p> 
 <a href="https://app.daily.dev/BaoTrung37"><img src="https://github.com/BaoTrung37/BaoTrung37/blob/main/devcard.png" align="right" width="300" alt="BaoTrung37's Dev Card"/></a>
 
