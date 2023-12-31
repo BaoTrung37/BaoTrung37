@@ -6,6 +6,10 @@ I'm Nguyen Bao Trung. I'm a Computer Science student from Post and Telecommuicat
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baotrung37" alt="baotrung37" /></a> </p> 
 <a href="https://app.daily.dev/BaoTrung37"><img src="https://github.com/BaoTrung37/BaoTrung37/blob/main/devcard.png" align="right" width="300" alt="BaoTrung37's Dev Card"/></a>
 
+#### Skills
+[![Flutter](https://img.shields.io/badge/flutter-%233498DB.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/BaoTrung37)
+[![Dart](https://img.shields.io/badge/dart-%231DA1F2.svg?&style=for-the-badge&logo=dart&logoColor=white)]()
+
 :mailbox: Reach me out!
 
 [![FaceBook Badge](https://img.shields.io/badge/-BaoTrung-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/baotrung372k/) [![Instagram Badge](https://img.shields.io/badge/-@tuilabaotrung-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/__gnurt_oab__) [![Mail Badge](https://img.shields.io/badge/-baotrung372k-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:baotrung372k@gmail.com)
