@@ -1,4 +1,7 @@
-## Hi There <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=2000&size=35&color=555555&width=435&lines=Hi+There!+👋;I'm+BaoTrung37;Have+a+good+day;" alt="Typing SVG" /></a>
+</h1>
+
 
 I'm Nguyen Bao Trung. I'm a Computer Science student from Post and Telecommuication Institute of Technology, Hanoi, Vietnam   
 
@@ -29,4 +32,7 @@ I'm Nguyen Bao Trung. I'm a Computer Science student from Post and Telecommuicat
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BaoTrung37\&layout=compact)
 #### Profile Visits 
-![visitors](https://visitor-badge-deno.deno.dev/baotrung37.baotrung37.json)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BaoTrung37)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
