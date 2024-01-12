@@ -30,8 +30,6 @@ I'm Nguyen Bao Trung. I'm a Computer Science student from Post and Telecommuicat
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaoTrung37&theme=radical&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baotrung37&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BaoTrung37\&hide_progress=true)
-
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BaoTrung37\&layout=compact)
 
 #### Profile Visits 
