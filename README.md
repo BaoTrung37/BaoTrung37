@@ -1,9 +1,9 @@
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=2000&size=35&color=555555&width=435&lines=Hi+There!+👋;I'm+BaoTrung37;Have+a+good+day;" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=2000&size=35&color=555555&width=435&lines=Hi+There!+👋;I'm+BaoTrung37;Have+a+good+day!;I+am+a+Flutter+Enginner+and+I+have+2+years+of+experience+in+Flutter+programming;" alt="Typing SVG" /></a>
 </h1>
 
 
-I'm Nguyen Bao Trung. I'm a Computer Science student from Post and Telecommuication Institute of Technology, Hanoi, Vietnam   
+I'm BaoTrung37. I'm a Computer Science student from Post and Telecommuication Institute of Technology, Hanoi, Vietnam   
 
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baotrung37" alt="BaoTrung37" /></a> </p> 
