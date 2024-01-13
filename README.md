@@ -33,4 +33,4 @@ I'm BaoTrung37. I'm a Computer Science student from Post and Telecommuication In
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BaoTrung37\&layout=compact)
 
 #### Profile Visits 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=BaoTrung37.visitor-badge" />
