@@ -19,7 +19,7 @@ I'm BaoTrung37. I'm a Computer Science student from Post and Telecommuication In
 
 :mailbox: Reach me out!
 
-[![FaceBook Badge](https://img.shields.io/badge/-BaoTrung-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/baotrung372k/) [![Instagram Badge](https://img.shields.io/badge/-@tuilabaotrung-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/__gnurt_oab__) [![Mail Badge](https://img.shields.io/badge/-baotrung372k-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:baotrung372k@gmail.com)
+[![FaceBook Badge](https://img.shields.io/badge/-BaoTrung-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/baotrung372k/) [![Instagram Badge](https://img.shields.io/badge/-@__gnurt_oab__-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/__gnurt_oab__) [![Mail Badge](https://img.shields.io/badge/-baotrung372k-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:baotrung372k@gmail.com)
 
 -  🤔 I am a `Mobile Application Enginner` and I have 3 years of experience in `Mobile Application Programming`. 
 -  💥 Fun fact: I'm pretty handsome 
